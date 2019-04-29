@@ -9,25 +9,25 @@
     {
       "code": "item-2",
       "codeAmp": "item_2",
-      "name": "item 2",
+      "name": "Item 2",
       "selected":  false
     },
     {
       "code": "item-3",
       "codeAmp": "item_3",
-      "name": "item 3",
+      "name": "Item 3",
       "selected":  true
     },
     {
       "code": "item-4",
       "codeAmp": "item_4",
-      "name": "item 4",
+      "name": "Item 4",
       "selected":  false
     },
     {
       "code": "item-5",
       "codeAmp": "item_5",
-      "name": "item 5",
+      "name": "Item 5",
       "selected":  false
     }
   ]

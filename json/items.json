@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "code": "item-1",
+      "codeAmp": "item_1",
+      "name": "Item 1",
+      "selected":  false
+    },
+    {
+      "code": "item-2",
+      "codeAmp": "item_2",
+      "name": "item 2",
+      "selected":  false
+    },
+    {
+      "code": "item-3",
+      "codeAmp": "item_3",
+      "name": "item 3",
+      "selected":  true
+    },
+    {
+      "code": "item-4",
+      "codeAmp": "item_4",
+      "name": "item 4",
+      "selected":  false
+    },
+    {
+      "code": "item-5",
+      "codeAmp": "item_5",
+      "name": "item 5",
+      "selected":  false
+    }
+  ]
+}
